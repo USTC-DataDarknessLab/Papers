@@ -8,7 +8,9 @@
      - Graph
      - Graph + LLM (3: Graph Centric + LLM Centric + Graph/LLM) https://github.com/XiaoxinHe/Awesome-Graph-LLM 
      - Paper List
-       - 1. 
+       - 1. All in One: Multi-task Prompting for Graph Neural Networks(KDD 23 best paper)
+       - 2. All in One and One for All: A Simple yet Effective Method towards Cross-domain Graph Pretraining(KDD 24)
+       - 3. Non-Homophilic Graph Pre-Training and Prompt Learning(KDD 25)
 
    - Q: When to use graphs (w/ RAG) for LLMs? 
 
